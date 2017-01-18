@@ -12,7 +12,7 @@ scarface = media.Movie("Scarface",
                         "https://www.youtube.com/watch?v=7pQQHnqBa2E")
 
 juice = media.Movie("Juice",
-                        "Four inner-city teenagers get caught up in the pursuit of power and happiness, which they refer to as 'the juice'.",
+                        "Four inner-city teenagers get caught up in the pursuit of power and respect, which they refer to as 'the juice'.",
                         "https://images-na.ssl-images-amazon.com/images/I/51THDBz1OBL.jpg",
                         "https://www.youtube.com/watch?v=QsWto8p7t1E")
 
@@ -29,7 +29,7 @@ city_of_god = media.Movie("City of God",
 rockers = media.Movie("Rockers",
                         "Horsemouth sets himself up in business selling records but when gangsters steal his bike things start to turn nasty. As tensions build, Horsemouth and friends plot to end the gangsters reign of terror and restore justice to the people of Kingston",
                         "https://images-na.ssl-images-amazon.com/images/M/MV5BOTIwNzcxNzk3OF5BMl5BanBnXkFtZTYwNjgwNjg4._V1_.jpg",
-                        "https://www.youtube.com/watch?v=mx8g4yoVkGU")
+                        "https://www.youtube.com/watch?v=7q58TWWdgKk")
 
 movies = [inception, scarface, juice, menace_II_society, city_of_god, rockers]
 
